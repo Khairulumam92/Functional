@@ -1,0 +1,7 @@
+base_dir=d:\Kuliah\5. Semester 5\Fungsional\Praktikum\Functional
+img_path_exists=True
+output_dir=d:\Kuliah\5. Semester 5\Fungsional\Praktikum\Functional\Jawaban\Modul 6
+output_path=d:\Kuliah\5. Semester 5\Fungsional\Praktikum\Functional\Jawaban\Modul 6\Maba-UMM-Sambut-Muktamar_after.jpg
+figure_path=d:\Kuliah\5. Semester 5\Fungsional\Praktikum\Functional\Jawaban\Modul 6\Tugas_2_before_after.png
+output_path_exists=True
+figure_path_exists=True
